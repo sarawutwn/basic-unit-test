@@ -1,0 +1,24 @@
+{
+  "name": "basic",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun run index.ts",
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@vitest/coverage-v8": "4.0.8",
+    "vite-tsconfig-paths": "^5.1.4",
+    "vitest": "^4.0.8",
+    "vitest-mock-extended": "^3.1.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "builder-pattern": "^2.2.0"
+  }
+}
