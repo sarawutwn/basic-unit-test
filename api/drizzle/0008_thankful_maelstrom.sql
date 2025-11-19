@@ -1,0 +1,1 @@
+ALTER TABLE "dealer" DROP COLUMN "latest_price";

@@ -1,0 +1,1 @@
+ALTER TABLE "product" ALTER COLUMN "substitute_product_name" SET DEFAULT '';

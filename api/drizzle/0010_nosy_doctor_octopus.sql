@@ -1,0 +1,1 @@
+ALTER TABLE "stock" ADD COLUMN "lead_time" integer;

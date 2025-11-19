@@ -1,0 +1,1 @@
+ALTER TABLE "product" ADD COLUMN "storage_location" varchar DEFAULT '';

@@ -1,0 +1,1 @@
+ALTER TABLE "dealer" ADD COLUMN "latest_price" numeric;

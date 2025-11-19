@@ -1,0 +1,1 @@
+ALTER TABLE "bill" ALTER COLUMN "created_by_id" SET DEFAULT 0;

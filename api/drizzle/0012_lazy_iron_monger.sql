@@ -1,0 +1,1 @@
+ALTER TABLE "category" ALTER COLUMN "options" SET DEFAULT '{"inside":false,"outer_circle":true,"wide":true}'::jsonb;
